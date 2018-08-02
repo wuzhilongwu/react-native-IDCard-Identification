@@ -1,0 +1,45 @@
+{
+  "_from": "react-native-idcard-identification",
+  "_id": "react-native-idcard-identification@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-/F6qjMPsZG2AiJGzb0W3mDR2ZykC9TYLMAUhsmN9o/dEO83Ganv3nfEAzw8sJwQueT2zzCunOGWywk5G2kuO3w==",
+  "_location": "/react-native-idcard-identification",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-idcard-identification",
+    "name": "react-native-idcard-identification",
+    "escapedName": "react-native-idcard-identification",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-idcard-identification/-/react-native-idcard-identification-1.0.0.tgz",
+  "_shasum": "c42f6f54a27520a261820c14ca00391bf8a983e0",
+  "_spec": "react-native-idcard-identification",
+  "_where": "/Users/wzl/Desktop/Git/School",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/wuzhilongwu/react-native-IDCard-Identification/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "homepage": "https://github.com/wuzhilongwu/react-native-IDCard-Identification#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-idcard-identification",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuzhilongwu/react-native-IDCard-Identification.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
